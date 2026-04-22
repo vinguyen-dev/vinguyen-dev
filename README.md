@@ -13,7 +13,7 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
 🎓 Final-year Software Engineering student at IUH, working toward my first role as a **Full-Stack Developer**.
 
