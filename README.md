@@ -1,17 +1,13 @@
 <div align="center">
 
-# 👾 Tuong Vi
+# 👋 Hi, I'm Tuong Vi
 
-```
-  ╔═══════════════════════════════════════════╗
-  ║   Final-year Software Engineering Student ║
-  ║   Backend Dev  •  DSA Grinder  •  Builder ║
-  ╚═══════════════════════════════════════════╝
-```
+**Final-year Software Engineering Student @ IUH**
+*on a journey: Backend → Full-Stack → AI Engineer*
 
 [![LeetCode](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=LeetCode&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fvinguyen-try&logo=leetcode&logoColor=%23ffa116)](https://leetcode.com/vinguyen-try)
 [![Viblo](https://img.shields.io/badge/Viblo-Blog-00b0ff?style=for-the-badge&logo=hashnode&logoColor=white)](https://viblo.asia/u/vinguyen-dev)
-[![TopCoder](https://img.shields.io/badge/TopCoder-Profile-EF3B3B?style=for-the-badge&logo=topcoder&logoColor=white)](https://www.topcoder.com/members/15000)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vinguyen-dev)
 
 </div>
 
@@ -19,57 +15,58 @@
 
 ## 🧠 About Me
 
-```yaml
-name: Tuong Vi
-role: Software Engineering Student (Final Year)
-focus:
-  - Backend Development & System Design
-  - Data Structures & Algorithms (daily grind 💪)
-  - Building useful + fun things
-currently_building: landing-hub
-writing_at: viblo.asia/u/vinguyen-dev
-```
+🎓 Final-year Software Engineering student at IUH, working toward my first role as a **Full-Stack Developer** — with a long-term goal of growing into **AI Engineering**.
+
+💻 Right now I'm building [**ShopBabyandMomCute**](https://github.com/vinguyen-dev/shop-baby-and-mom-cute) — a production-grade e-commerce backend with Spring Boot 3, Redis, RabbitMQ, and Outbox Pattern — because I believe the best way to learn is to build something real.
+
+🧩 I grind DSA daily and document every solved problem in my [LeetCode Journal](https://github.com/vinguyen-dev/leetcode-journal) — currently working through 150 curated problems.
+
+✍️ I write weekly on Viblo about things I actually struggled with in my project: JWT refresh tokens, cache invalidation, Testcontainers, CI/CD — real problems, not tutorials.
+
+🚀 **Actively looking for internship / junior roles** — open to full-stack or backend positions.
+
+> *"Don't just learn it. Build it, break it, write about it."*
+
+---
+
+## 🔨 What I'm Building Now
+
+| Project | Description | Status |
+|---|---|---|
+| [mom-baby-store](https://github.com/vinguyen-dev/mom-baby-store) | E-commerce platform — Spring Boot 3, JWT, Redis, RabbitMQ, MoMo payment, Gemini AI | 🟡 In progress |
+| [LeetCode Journal](https://github.com/vinguyen-dev/leetcode-journal) | 150 problems with notes, Big-O, and patterns | 🟡 In progress |
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages**
+**Backend** — where I spend most of my time
 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white)
-![C%23](https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
-
-**Backend**
-
-![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=flat-square&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-%236DB33F.svg?style=flat-square&logo=springsecurity&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-%23000000.svg?style=flat-square&logo=express&logoColor=white)
 
-**Frontend**
+**Frontend** — learning & growing
 
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=flat-square&logo=vuedotjs&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2306B6D4.svg?style=flat-square&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=flat-square&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
 
-**Database & Cloud**
+**Database & Messaging**
 
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat-square&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=flat-square&logo=redis&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=flat-square&logo=firebase&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazonwebservices&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-%234285F4.svg?style=flat-square&logo=googlecloud&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-%23FF6600.svg?style=flat-square&logo=rabbitmq&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat-square&logo=mongodb&logoColor=white)
 
-**DevOps & Tools**
+**DevOps & Cloud**
 
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat-square&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939.svg?style=flat-square&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232088FF.svg?style=flat-square&logo=githubactions&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat-square&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
 
 ---
 
@@ -103,14 +100,15 @@ writing_at: viblo.asia/u/vinguyen-dev
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-> ✍️ I write about backend development, system design & algorithms on [Viblo](https://viblo.asia/u/vinguyen-dev)
+> ✍️ I write weekly about real problems I encounter while building — Spring Boot, system design, and more.
+> Check out my blog on [Viblo](https://viblo.asia/u/vinguyen-dev)
 <!-- BLOG-POST-LIST:END -->
 
 ---
 
 <div align="center">
 
-*"First, solve the problem. Then, write the code."*
+*"Don't just learn it. Build it, break it, write about it."*
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=vinguyen-dev&color=blueviolet&style=flat-square)
 
