@@ -15,7 +15,7 @@
 
 ## 🧠 About Me
 
-🎓 Final-year Software Engineering student at IUH, working toward my first role as a **Full-Stack Developer** — with a long-term goal of growing into **AI Engineering**.
+🎓 Final-year Software Engineering student at IUH, working toward my first role as a **Full-Stack Developer**.
 
 💻 Right now I'm building [**ShopBabyandMomCute**](https://github.com/vinguyen-dev/shop-baby-and-mom-cute) — a production-grade e-commerce backend with Spring Boot 3, Redis, RabbitMQ, and Outbox Pattern — because I believe the best way to learn is to build something real.
 
