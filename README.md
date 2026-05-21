@@ -5,7 +5,6 @@
 **Final-year Software Engineering Student @ IUH**
 *on a journey: Backend → Full-Stack*
 
-[![LeetCode](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=LeetCode&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fvinguyen-try&logo=leetcode&logoColor=%23ffa116)](https://leetcode.com/vinguyen-try)
 [![Viblo](https://img.shields.io/badge/Viblo-Blog-00b0ff?style=for-the-badge&logo=hashnode&logoColor=white)](https://viblo.asia/u/vinguyen-dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vinguyen-dev)
 
@@ -17,10 +16,6 @@
 
 🎓 Final-year Software Engineering student at IUH, working toward my first role as a **Full-Stack Developer**.
 
-💻 Right now I'm building [**ShopForBabyandMom**](https://github.com/vinguyen-dev/mom-baby-store) — a production-grade e-commerce backend with Spring Boot 3, Redis, RabbitMQ, and Outbox Pattern — because I believe the best way to learn is to build something real.
-
-🧩 I grind DSA daily and document every solved problem in my [LeetCode Journal](https://github.com/vinguyen-dev/leetcode-journal) — currently working through 150 curated problems.
-
 ✍️ I write weekly on Viblo about things I actually struggled with in my project: JWT refresh tokens, cache invalidation, Testcontainers, CI/CD — real problems, not tutorials.
 
 🚀 **Actively looking for internship / junior roles** — open to full-stack or backend positions.
@@ -29,14 +24,6 @@
 
 ---
 
-## 🔨 What I'm Building Now
-
-| Project | Description | Status |
-|---|---|---|
-| [mom-baby-store](https://github.com/vinguyen-dev/mom-baby-store) | E-commerce platform — Spring Boot 3, JWT, Redis, RabbitMQ, MoMo payment, Gemini AI | 🟡 In progress |
-| [LeetCode Journal](https://github.com/vinguyen-dev/leetcode-journal) | 150 problems with notes, Big-O, and patterns | 🟡 In progress |
-
----
 
 ## 🛠️ Tech Stack
 
@@ -85,15 +72,6 @@
 
 </div>
 
----
-
-## ⚔️ LeetCode Progress
-
-<div align="center">
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/vinguyen-try?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/vinguyen-try)
-
-</div>
 
 ---
 
